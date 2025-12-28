@@ -1,0 +1,117 @@
+```
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build artifacts
+dist/
+build/
+target/
+
+# Python specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.out
+
+# Coverage reports
+coverage/
+htmlcov/
+
+# Unit test / coverage reports
+.coverage*
+*.coverage
+coverage.xml
+*.log
+
+# Transpiled JavaScript
+*.js.map
+*.mjs.map
+
+# MongoDB
+*.db
+*.db-journal
+*.db-wal
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Archives
+*.zip
+*.tar
+*.gz
+*.tgz
+*.rar
+*.7z
+*.bz2
+*.xz
+*.zst
+
+# Processed images (if generated)
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.webp
+*.tiff
+*.svg
+
+# Database files
+*.sqlite
+*.sqlite3
+*.db3
+
+# System files
+*.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
+desktop.ini
+
+# IDE and editor specific
+.vs/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+```
